@@ -1,0 +1,1 @@
+SELECT * FROM ML.EVALUATE(MODEL `animated-rhythm-324612.AI4F.aapl_model` )
